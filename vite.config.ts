@@ -10,7 +10,7 @@ export default defineConfig({
                 id: "splitwise",
                 name: "Splitwise",
                 short_name: "Splitwise",
-                start_url: "/index.html",
+                start_url: "/",
                 scope: "/",
                 icons: [
                     {
